@@ -1,3 +1,8 @@
+
+Note - please see original page for latest non-mqtt releases:
+https://github.com/visualapproach/WiFi-remote-for-Bestway-Lay-Z-SPA
+
+
 # WiFi-remote-for-Bestway-Lay-Z-SPA
 ## Hack - ESP8266 as WiFi remote control for Bestway Lay-Z spa Helsinki<br>
 ### Disclaimer: As mentioned, this is a hack. If anything breaks it breaks and it's your fault.<br>
